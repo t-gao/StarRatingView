@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StarRatingView">
+        <attr name="star_on" format="reference" />
+        <attr name="star_off" format="reference" />
+        <attr name="rating" format="integer" />
+        <attr name="rateable" format="boolean" />
+    </declare-styleable>
+
+</resources>
